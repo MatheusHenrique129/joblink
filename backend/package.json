@@ -1,0 +1,11 @@
+{
+  "name": "joblink",
+  "version": "1.0.0",
+  "description": "Projeto joblink para encontrar e prestar serviços autônomos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Henrique Santos Da Silva",
+  "license": "ISC"
+}
